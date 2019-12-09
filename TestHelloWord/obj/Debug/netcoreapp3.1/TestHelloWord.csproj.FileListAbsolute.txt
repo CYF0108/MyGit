@@ -1,0 +1,11 @@
+E:\Nalong\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.exe
+E:\Nalong\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.deps.json
+E:\Nalong\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.runtimeconfig.json
+E:\Nalong\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.runtimeconfig.dev.json
+E:\Nalong\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.dll
+E:\Nalong\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.pdb
+E:\Nalong\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.csprojAssemblyReference.cache
+E:\Nalong\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.AssemblyInfoInputs.cache
+E:\Nalong\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.AssemblyInfo.cs
+E:\Nalong\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.dll
+E:\Nalong\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.pdb
