@@ -9,3 +9,14 @@ E:\Nalong\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.Asse
 E:\Nalong\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.AssemblyInfo.cs
 E:\Nalong\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.dll
 E:\Nalong\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.pdb
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.exe
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.deps.json
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.runtimeconfig.json
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.runtimeconfig.dev.json
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.dll
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\bin\Debug\netcoreapp3.1\TestHelloWord.pdb
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.csprojAssemblyReference.cache
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.AssemblyInfoInputs.cache
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.AssemblyInfo.cs
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.dll
+E:\Nalong\TestGit\TestHelloWord\TestHelloWord\obj\Debug\netcoreapp3.1\TestHelloWord.pdb

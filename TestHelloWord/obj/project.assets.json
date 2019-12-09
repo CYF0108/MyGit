@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Nalong\\TestHelloWord\\TestHelloWord\\TestHelloWord.csproj",
+      "projectUniqueName": "E:\\Nalong\\TestGit\\TestHelloWord\\TestHelloWord\\TestHelloWord.csproj",
       "projectName": "TestHelloWord",
-      "projectPath": "E:\\Nalong\\TestHelloWord\\TestHelloWord\\TestHelloWord.csproj",
+      "projectPath": "E:\\Nalong\\TestGit\\TestHelloWord\\TestHelloWord\\TestHelloWord.csproj",
       "packagesPath": "C:\\Users\\15480\\.nuget\\packages\\",
-      "outputPath": "E:\\Nalong\\TestHelloWord\\TestHelloWord\\obj\\",
+      "outputPath": "E:\\Nalong\\TestGit\\TestHelloWord\\TestHelloWord\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\15480\\AppData\\Roaming\\NuGet\\NuGet.Config",
