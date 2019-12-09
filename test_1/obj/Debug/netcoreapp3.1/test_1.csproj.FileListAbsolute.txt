@@ -1,0 +1,11 @@
+E:\Nalong\test_1\test_1\bin\Debug\netcoreapp3.1\test_1.exe
+E:\Nalong\test_1\test_1\bin\Debug\netcoreapp3.1\test_1.deps.json
+E:\Nalong\test_1\test_1\bin\Debug\netcoreapp3.1\test_1.runtimeconfig.json
+E:\Nalong\test_1\test_1\bin\Debug\netcoreapp3.1\test_1.runtimeconfig.dev.json
+E:\Nalong\test_1\test_1\bin\Debug\netcoreapp3.1\test_1.dll
+E:\Nalong\test_1\test_1\bin\Debug\netcoreapp3.1\test_1.pdb
+E:\Nalong\test_1\test_1\obj\Debug\netcoreapp3.1\test_1.AssemblyInfoInputs.cache
+E:\Nalong\test_1\test_1\obj\Debug\netcoreapp3.1\test_1.AssemblyInfo.cs
+E:\Nalong\test_1\test_1\obj\Debug\netcoreapp3.1\test_1.dll
+E:\Nalong\test_1\test_1\obj\Debug\netcoreapp3.1\test_1.pdb
+E:\Nalong\test_1\test_1\obj\Debug\netcoreapp3.1\test_1.csprojAssemblyReference.cache
